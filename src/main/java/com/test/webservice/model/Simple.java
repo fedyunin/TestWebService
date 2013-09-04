@@ -9,6 +9,9 @@ public class Simple {
 
     String message;
 
+    public Simple() {
+    }
+
     public Simple(String message) {
         this.message = message;
     }
